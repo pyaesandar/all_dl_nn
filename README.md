@@ -1,3 +1,6 @@
+==================================================================================================================
+Question 4)
+
 # Canny Edge Detection Implementation
 
 This project implements a Canny Edge Detection algorithm using Python and OpenCV. The algorithm includes the following key steps:
